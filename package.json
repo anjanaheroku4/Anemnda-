@@ -9,7 +9,7 @@
     "restart": "pm2 restart MANU-MD"
   },
   "dependencies": {
-   "@whiskeysockets/baileys": "npm:manu-xmd",
+   "@whiskeysockets/baileys": "npm:baileys-mod",
    "@google/generative-ai": "latest",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@SumiFX/Scraper": "github:SumiFX/SumiFX-Scraper",
